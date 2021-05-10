@@ -23,7 +23,7 @@
     "koa-router": "^7.4.0",
     "koa-session": "^5.12.3",
     "koa2-cors": "^2.0.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "nuxt": "^2.4.0",
     "querystring": "^0.2.0",
     "ramda": "^0.26.1",
